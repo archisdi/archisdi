@@ -1,8 +1,5 @@
-### Why do round pizzas come in square boxes :question:
+### why do round pizzas come in square box
 
-[![Linkedin](https://img.shields.io/badge/-archisdi-blue?style=flat-square&labelColor=gray&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/archisdi)](https://www.linkedin.com/in/archisdi)
-
-<a href="https://linkedin.com/in/archisdi"><img src="https://archisdi.me/img/linkedin.png" width="35" height="35"></a> &nbsp; &nbsp;
-<a href="https://instagram.com/archisdi"><img src="https://archisdi.me/img/instagram.png" width="35" height="35"></a> &nbsp; &nbsp;
-<a href="https://t.me/archisdi"><img src="https://archisdi.me/img/telegram.png" width="35" height="35"></a> &nbsp; &nbsp;
-<a href="https://archisdi.me/files/cv.pdf"><img src="https://archisdi.me/img/cv.png" width="35" height="35"></a> &nbsp; &nbsp;
+[![Linkedin](https://img.shields.io/badge/-Archie-blue?style=flat-square&labelColor=gray&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/archisdi)](https://www.linkedin.com/in/archisdi)
+[![Instagram](https://img.shields.io/badge/-@archisdi-orange?style=flat-square&labelColor=gray&logo=Instagram&logoColor=white&link=https://www.instagram.com/archisdi)](https://www.instagram.com/archisdi)
+[![Telegram](https://img.shields.io/badge/-aai-informational?style=flat-square&labelColor=gray&logo=telegram&logoColor=white&link=https://t.me/archisdi)](https://t.me/archisdi)
