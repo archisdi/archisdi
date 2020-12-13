@@ -3,7 +3,7 @@
 [![Telegram](https://img.shields.io/badge/-aai-informational?style=flat-square&labelColor=gray&logo=telegram&logoColor=white&link=https://t.me/archisdi)](https://t.me/archisdi)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-67-blue)
 
 **I'm an Early 🐤** 
 
@@ -32,10 +32,13 @@ Sunday       277 commits    ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     9 mins              ██████████████░░░░░░░░░░░   56.86% 
+Markdown                 6 mins              ██████████░░░░░░░░░░░░░░░   40.21% 
+Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.93%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+archisdi                 16 mins             ████████████████████████░   97.07% 
+reactive-playground      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.93%
 
 ```
 
