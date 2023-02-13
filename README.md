@@ -3,7 +3,7 @@
 [![Telegram](https://img.shields.io/badge/-aai-informational?style=flat-square&labelColor=gray&logo=telegram&logoColor=white&link=https://t.me/archisdi)](https://t.me/archisdi)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C010%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C015%20hrs%203%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -53,5 +53,5 @@ Java                     6 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/02/2023 01:13:02 UTC
+ Last Updated on 13/02/2023 01:11:02 UTC
 <!--END_SECTION:waka-->
