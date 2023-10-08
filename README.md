@@ -3,7 +3,7 @@
 [![Telegram](https://img.shields.io/badge/-aai-informational?style=flat-square&labelColor=gray&logo=telegram&logoColor=white&link=https://t.me/archisdi)](https://t.me/archisdi)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C411%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C411%20hrs%2011%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -50,5 +50,5 @@ Makefile                 3 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/10/2023 01:02:25 UTC
+ Last Updated on 08/10/2023 00:55:49 UTC
 <!--END_SECTION:waka-->
