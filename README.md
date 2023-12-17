@@ -3,7 +3,7 @@
 [![Telegram](https://img.shields.io/badge/-aai-informational?style=flat-square&labelColor=gray&logo=telegram&logoColor=white&link=https://t.me/archisdi)](https://t.me/archisdi)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C492%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C492%20hrs%2026%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -30,11 +30,11 @@ Sunday                   15096 commits       █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Rust                     7 hrs 25 mins       ██████████████░░░░░░░░░░░   55.37 % 
-JavaScript               3 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
-TypeScript               2 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
-Bash                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
-YAML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+Rust                     5 hrs 52 mins       ████████████░░░░░░░░░░░░░   47.44 % 
+JavaScript               3 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
+TypeScript               2 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   21.23 % 
+JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+Bash                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -50,5 +50,5 @@ HTML                     11 repos            █░░░░░░░░░░�
 
 
 
- Last Updated on 16/12/2023 00:58:42 UTC
+ Last Updated on 17/12/2023 01:08:39 UTC
 <!--END_SECTION:waka-->
