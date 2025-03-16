@@ -28,7 +28,8 @@ Sunday                   4344 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     41 mins             █████████████████████████   99.48 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -44,5 +45,5 @@ Makefile                 3 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 09/03/2025 00:34:26 UTC
+ Last Updated on 16/03/2025 00:41:47 UTC
 <!--END_SECTION:waka-->
